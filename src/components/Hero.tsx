@@ -44,15 +44,6 @@ export default function Hero() {
               Contact Me
               <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
             </a>
-            <a
-              href="/resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-full sm:w-auto px-8 py-4 bg-transparent border border-white/20 hover:border-brand-gold hover:text-brand-gold text-white font-medium rounded-sm transition-all flex items-center justify-center gap-2 group"
-            >
-              <Download size={18} className="group-hover:-translate-y-1 transition-transform" />
-              Download Resume
-            </a>
           </div>
         </motion.div>
       </div>
