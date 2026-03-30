@@ -78,15 +78,6 @@ export default function Contact() {
             </div>
 
             <div className="pt-8">
-              <a
-                href="/resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-brand-blue hover:bg-brand-blue-light text-white font-semibold rounded-sm transition-all group w-full sm:w-auto"
-              >
-                <Download size={18} className="group-hover:-translate-y-1 transition-transform" />
-                Download Full Resume
-              </a>
             </div>
           </motion.div>
 
